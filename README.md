@@ -28,7 +28,7 @@ A passionate and motivated Software Developer specializing in Odoo (v11-v18) and
 
 * **Odoo Development:** Customized Odoo modules, created new JS components with OWL, and handled Odoo migrations from v11 to v13. I also integrated systems like `bista_password_policy` and `ventus_accounting`
 
-* [cite_start]**Flutter App:** Designed and developed a queue management app, complete with a marketing website, to help with COVID-19 scenarios.
+* **Flutter App:** Designed and developed a queue management app, complete with a marketing website, to help with COVID-19 scenarios.
 
 * **Human Rescue Robot:** Worked on a social impact project that blended robotics, web development, and machine learning. This project was a finalist at the Red Dot Foundation Youth Innovation Challenge and the DRR Innovation Challenge by NMMC.
 
